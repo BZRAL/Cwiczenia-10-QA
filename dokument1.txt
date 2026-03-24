@@ -7,3 +7,10 @@ Zmiana 3
 Zmiana 4
  
 Zmiana 5
+
+
+Linijka 1
+
+Linijka 2
+
+Linijka 6
